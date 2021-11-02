@@ -3,4 +3,4 @@ This repository implements ViTGAN: Training GANs with Vision Transformers, Kwonj
 
 
 ## Warning !
-I'm now implementing ViTGAN, and this repo isn't work yet. Please, only refer breifly.
+I'm now implementing ViTGAN, and this repo doesn't work yet.
